@@ -38,7 +38,7 @@ public class AdopetConsoleApplication {
                 } else if (opcaoEscolhida == 3) {
                     listarPetsDoAbrigo();
                 } else if (opcaoEscolhida == 4) {
-
+                    importarPetsDoAbrigo();
                 } else if (opcaoEscolhida == 5) {
                     break;
                 } else {
