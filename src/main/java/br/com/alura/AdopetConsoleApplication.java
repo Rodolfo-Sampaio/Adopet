@@ -1,6 +1,9 @@
 package br.com.alura;
 
-import br.com.alura.service.ImportarPetsDoAbrigoCommand;
+import br.com.alura.command.CadastrarAbrigoCommand;
+import br.com.alura.command.ImportarPetsDoAbrigoCommand;
+import br.com.alura.command.ListarAbrigoCommand;
+import br.com.alura.command.ListarPetsDoAbrigoCommand;
 
 import java.util.Scanner;
 
